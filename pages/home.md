@@ -1,7 +1,7 @@
 ---
 layout: layouts/home.njk
 title: It’s Amanda & Brian
-date: 2016-01-01T00:00:00.000Z
+date: 2021-12-28T19:39:34.071Z
 permalink: /
 eleventyNavigation:
   key: Home
